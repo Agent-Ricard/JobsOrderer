@@ -1,0 +1,12 @@
+D:\Projects\JobsOrderer\JobsOrderer\bin\Debug\JobsOrderer.exe.config
+D:\Projects\JobsOrderer\JobsOrderer\obj\Debug\JobsOrderer.csprojResolveAssemblyReference.cache
+D:\Projects\JobsOrderer\JobsOrderer\bin\Debug\JobsOrderer.exe
+D:\Projects\JobsOrderer\JobsOrderer\bin\Debug\JobsOrderer.pdb
+D:\Projects\JobsOrderer\JobsOrderer\obj\Debug\JobsOrderer.exe
+D:\Projects\JobsOrderer\JobsOrderer\obj\Debug\JobsOrderer.pdb
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer\bin\Debug\JobsOrderer.exe.config
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer\obj\Debug\JobsOrderer.exe
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer\obj\Debug\JobsOrderer.pdb
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer\bin\Debug\JobsOrderer.exe
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer\bin\Debug\JobsOrderer.pdb
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer\obj\Debug\JobsOrderer.csprojResolveAssemblyReference.cache

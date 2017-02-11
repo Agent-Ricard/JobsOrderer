@@ -1,0 +1,7 @@
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\bin\Debug\JobsOrderer.Tests.dll
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\bin\Debug\JobsOrderer.Tests.pdb
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\bin\Debug\JobsOrderer.exe
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\bin\Debug\JobsOrderer.pdb
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\obj\Debug\JobsOrderer.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\obj\Debug\JobsOrderer.Tests.dll
+D:\Projects\Life's Great\JobsOrderer\JobsOrderer.Tests\obj\Debug\JobsOrderer.Tests.pdb
